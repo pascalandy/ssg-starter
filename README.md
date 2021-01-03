@@ -1,56 +1,43 @@
 # eleventy-tailwindcss-alpinejs-starter by [Greg Wolanski](https://gregwolanski.com)
 
-A starter repository showing how to build a website with the [Eleventy](https://www.11ty.dev), [Tailwind CSS](https://tailwindcss.com), and [Alpine.js](https://github.com/alpinejs/alpine).
+A static site generator to build a website with the [Eleventy](https://www.11ty.dev), [Tailwind CSS V2](https://tailwindcss.com), and [Alpine.js](https://github.com/alpinejs/alpine).
 
-Learn more on CSS-Tricks: [An Eleventy Starter with Tailwind CSS and Alpine.js](https://css-tricks.com/eleventy-starter-with-tailwind-css-alpine-js/)
+## Workflow
 
-## Getting Started
-
-### 1. Clone this repository
+### Clone
 
 ```
-git clone https://github.com/gregwolanski/eleventy-tailwindcss-alpinejs-starter.git my-website-name
+git clone https://github.com/pascalandy/ssg-starter.git ssg-starter && cd ssg-starter
 ```
 
-### 2. Navigate to the directory
+### Install & Update
 
 ```
-cd my-website-name
+npm install && npm update
 ```
 
-### 3. Install the dependencies
+### Develop & Run Eleventy server
 
 ```
-npm install
+npm run build && npm run start
 ```
 
-### 4. Update the dependencies
+### Ship to production
 
-```
-npm update
-```
-
-### 5. Build the project to generate the first CSS
-
-This step is only required the very first time.
+Under directory `_site` HTML file(s) are **minified** and CSS contain **only used** classes. 
 
 ```
 npm run build
 ```
 
-### 6. Run Eleventy
+### Related docs
 
-```
-npm run start
-```
+- Blog post: https://css-tricks.com/eleventy-starter-with-tailwind-css-alpine-js/
+- https://www.11ty.dev/docs/languages/nunjucks/
 
-## Author
+### Credits
 
-[Greg Wolanski](https://gregwolanski.com)
-
-## Troubleshooting
-
-[Windows](https://github.com/gregwolanski/eleventy-tailwindcss-alpinejs-starter/issues/3)
+Forked from [this template](https://github.com/gregwolanski/eleventy-tailwindcss-alpinejs-starter).
 
 ## License
 

@@ -1,3 +1,6 @@
+// tailwind.config.js
+const colors = require('tailwindcss/colors')
+
 module.exports = {
   purge: {
     content: ["_site/**/*.html"],
@@ -8,10 +11,12 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        change: "black",
+        rose: colors.rose,
       },
     },
   },
   variants: {},
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/typography')
+  ]
 };
