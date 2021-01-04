@@ -7,9 +7,10 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addWatchTarget("./_tmp/style.css");
 
+    // Output directory: _site
+
   eleventyConfig.addPassthroughCopy({ "./_tmp/style.css": "./style.css" });
 
-  // Output directory: _site
   // Copy `img/` to `_site/img`
   eleventyConfig.addPassthroughCopy("img");
 
