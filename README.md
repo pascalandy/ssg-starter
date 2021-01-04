@@ -1,4 +1,4 @@
-# [sag-starter](https://github.com/pascalandy/ssg-starter)
+# [ssg-starter](https://github.com/pascalandy/ssg-starter)
 
 A static site generator to build websites using:
 
