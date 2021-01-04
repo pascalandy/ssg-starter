@@ -7,6 +7,14 @@ Status template:
 
 # Releases
 
+## 0.3.1 (2021-01-04)
+### ⚡️ Updates
+- [372b7ab](https://github.com/pascalandy/ssg-starter/commit/372b7ab) Update ssg-starter to version 0.3.1 /Dockerfile
+- [074046b](https://github.com/pascalandy/ssg-starter/commit/074046b) Fix github user
+
+### 🔍 Compare
+- ... with previous release: [0.3.0 <> 0.3.1](https://github.com/pascalandy/ssg-starter/compare/0.3.0...0.3.1)
+
 ## 0.3.0 (2021-01-04)
 ### ⚡️ Updates
 - [3dff469](https://github.com/firepress-org/ssg-starter/commit/3dff469) Update ssg-starter to version 0.3.0 /Dockerfile
