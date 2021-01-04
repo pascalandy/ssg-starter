@@ -7,6 +7,23 @@ Status template:
 
 # Releases
 
+## 0.3.0 (2021-01-04)
+### ⚡️ Updates
+- [3dff469](https://github.com/firepress-org/ssg-starter/commit/3dff469) Update ssg-starter to version 0.3.0 /Dockerfile
+- [d808de9](https://github.com/firepress-org/ssg-starter/commit/d808de9) Add tailwindcss/typography + aspect-ratio
+- [6e31549](https://github.com/firepress-org/ssg-starter/commit/6e31549) Fix style.css path
+- [0800ff4](https://github.com/firepress-org/ssg-starter/commit/0800ff4) Update readme
+- [ca8d81d](https://github.com/firepress-org/ssg-starter/commit/ca8d81d) init yarn.lock
+- [28a0b3f](https://github.com/firepress-org/ssg-starter/commit/28a0b3f) update package @11ty/eleventy-img
+- [00de124](https://github.com/firepress-org/ssg-starter/commit/00de124) Init img
+- [45dcaee](https://github.com/firepress-org/ssg-starter/commit/45dcaee) ignore all *.md
+- [b477bbd](https://github.com/firepress-org/ssg-starter/commit/b477bbd) Add eleventyConfig.addPassthroughCopy;
+- [366a10b](https://github.com/firepress-org/ssg-starter/commit/366a10b) init images directory
+- [df104c1](https://github.com/firepress-org/ssg-starter/commit/df104c1) Add @11ty/eleventy-img
+
+### 🔍 Compare
+- ... with previous release: [ <> 0.3.0](https://github.com/firepress-org/ssg-starter/compare/...0.3.0)
+
 ## 0.2.1 (2021-01-03)
 ### ⚡️ Updates
 - [8463d38](https://github.com/firepress-org/ssg-starter/commit/8463d38) Add default configs from TailwindUI
