@@ -7,22 +7,15 @@ Status template:
 
 # Releases
 
-## 0.2.0 (2021-01-03)
+## 0.2.1 (2021-01-03)
 ### ⚡️ Updates
-- [5415a0d](https://github.com/firepress-org/ssg-starter/commit/5415a0d) Update ssg-starter to version 0.2.0 /Dockerfile
-- [0090f3a](https://github.com/firepress-org/ssg-starter/commit/0090f3a) Init CHANGELOG
-- [61ce8d3](https://github.com/firepress-org/ssg-starter/commit/61ce8d3) Update instructions
-- [f1a3e9c](https://github.com/firepress-org/ssg-starter/commit/f1a3e9c) Fixed: compiled output
-- [6afaa88](https://github.com/firepress-org/ssg-starter/commit/6afaa88) init Dockerfile
-- [dee981a](https://github.com/firepress-org/ssg-starter/commit/dee981a) Add default configs from TailwindUI
-- [9ced953](https://github.com/firepress-org/ssg-starter/commit/9ced953) Add blog post URL
-- [fc27629](https://github.com/firepress-org/ssg-starter/commit/fc27629) Add @tailwindcss/typography
-- [7f9c4a4](https://github.com/firepress-org/ssg-starter/commit/7f9c4a4) Using a basic tailwindUI component as default
-- [260799a](https://github.com/firepress-org/ssg-starter/commit/260799a) Init _site / output example
+- [8463d38](https://github.com/firepress-org/ssg-starter/commit/8463d38) Add default configs from TailwindUI
 
-## 0.1.0
+### 🔍 Compare
+- ... with previous release: [0.1.0 <> 0.2.1](https://github.com/firepress-org/ghostfire/compare/0.1.0...0.2.1)
+
+## 0.1.0 (from fork)
 ### ⚡️ Updates
-- [6050666](https://github.com/firepress-org/ssg-starter/commit/6050666) remove _site
 - [4702461](https://github.com/firepress-org/ssg-starter/commit/4702461) Update README
 - [3fc5efc](https://github.com/firepress-org/ssg-starter/commit/3fc5efc) Update
 - [9cfc929](https://github.com/firepress-org/ssg-starter/commit/9cfc929) Update the dependencies
