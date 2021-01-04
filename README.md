@@ -1,6 +1,10 @@
-# eleventy-tailwindcss-alpinejs-starter by [Greg Wolanski](https://gregwolanski.com)
+# [sag-starter](https://github.com/pascalandy/ssg-starter)
 
-A static site generator to build a website with the [Eleventy](https://www.11ty.dev), [Tailwind CSS V2](https://tailwindcss.com), and [Alpine.js](https://github.com/alpinejs/alpine).
+A static site generator to build websites using:
+
+- [Eleventy](https://www.11ty.dev)
+- [Tailwind CSS V2](https://tailwindcss.com)
+- [Alpine.js](https://github.com/alpinejs/alpine)
 
 ## Workflow
 
@@ -35,7 +39,7 @@ npm run build
 - Blog post: https://css-tricks.com/eleventy-starter-with-tailwind-css-alpine-js/
 - https://www.11ty.dev/docs/languages/nunjucks/
 
-### Credits
+## Credits
 
 Forked from [this template](https://github.com/gregwolanski/eleventy-tailwindcss-alpinejs-starter).
 
