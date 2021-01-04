@@ -3,7 +3,7 @@
 A static site generator to build websites using:
 
 - [Eleventy](https://www.11ty.dev)
-- [Tailwind CSS V2](https://tailwindcss.com)
+- [TailwindCSS V2](https://tailwindcss.com)
 - [Alpine.js](https://github.com/alpinejs/alpine)
 
 ## Workflow
@@ -41,7 +41,7 @@ npm run build
 
 ## Credits
 
-Forked from [this template](https://github.com/gregwolanski/eleventy-tailwindcss-alpinejs-starter).
+This project [ was forked](https://github.com/gregwolanski/eleventy-tailwindcss-alpinejs-starter).
 
 ## License
 
