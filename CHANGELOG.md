@@ -45,7 +45,7 @@ Status template:
 - [8463d38](https://github.com/pascalandy/ssg-starter/commit/8463d38) Add default configs from TailwindUI
 
 ### 🔍 Compare
-- ... with previous release: [0.1.0 <> 0.2.1](https://github.com/pascalandy/ghostfire/compare/0.1.0...0.2.1)
+- ... with previous release: [0.1.0 <> 0.2.1](https://github.com/pascalandy/ssg-starter/compare/0.1.0...0.2.1)
 
 ## 0.1.0 (from fork)
 ### ⚡️ Updates
