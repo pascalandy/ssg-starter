@@ -45,15 +45,9 @@ Status template:
 - [366a10b](https://github.com/pascalandy/ssg-starter/commit/366a10b) init images directory
 - [df104c1](https://github.com/pascalandy/ssg-starter/commit/df104c1) Add @11ty/eleventy-img
 
-### 🔍 Compare
-- ... with previous release: [0.3.0 <> 0.3.1](https://github.com/pascalandy/ssg-starter/compare/0.2.1...0.3.0)
-
 ## 0.2.1 (2021-01-03)
 ### ⚡️ Updates
 - [8463d38](https://github.com/pascalandy/ssg-starter/commit/8463d38) Add default configs from TailwindUI
-
-### 🔍 Compare
-- ... with previous release: [0.1.0 <> 0.2.1](https://github.com/pascalandy/ssg-starter/compare/0.1.0...0.2.1)
 
 ## 0.1.0 (from fork)
 ### ⚡️ Updates
