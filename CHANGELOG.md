@@ -7,6 +7,14 @@ Status template:
 
 # Releases
 
+## 0.3.2 (2021-01-04)
+### ⚡️ Updates
+- [e6aadea](https://github.com/pascalandy/ssg-starter/commit/e6aadea) Update ssg-starter to version 0.3.2 /Dockerfile
+- [ac903cb](https://github.com/pascalandy/ssg-starter/commit/ac903cb) Fix username in CHANGELOG
+
+### 🔍 Compare
+- ... with previous release: [0.3.1 <> 0.3.2](https://github.com/pascalandy/ssg-starter/compare/0.3.1...0.3.2)
+
 ## 0.3.1 (2021-01-04)
 ### ⚡️ Updates
 - [372b7ab](https://github.com/pascalandy/ssg-starter/commit/372b7ab) Update ssg-starter to version 0.3.1 /Dockerfile
