@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "@11ty/eleventy-img": "^0.7.1",
-    "@tailwindcss/typography": "github:tailwindcss/typography"
+    "@tailwindcss/typography": "github:tailwindcss/typography",
+    "@tailwindcss/typography": "github:tailwindcss/aspect-ratio"
   }
 }
