@@ -6,8 +6,8 @@
 ###################################
 
 ARG APP_NAME="ssg-starter"
-ARG VERSION="0.3.2"
-ARG RELEASE="0.3.2"
+ARG VERSION="0.3.3"
+ARG RELEASE="0.3.3"
 ARG GITHUB_USER="pascalandy"
 
 ###################################
