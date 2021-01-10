@@ -6,15 +6,15 @@
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
     "alpinejs": "^2.8.0",
-    "autoprefixer": "^10.1.0",
+    "autoprefixer": "^10.2.1",
     "clean-css-cli": "^4.3.0",
     "html-minifier": "^4.0.0",
-    "postcss": "^8.2.1",
+    "postcss": "^8.2.4",
     "postcss-cli": "^8.3.1",
     "tailwindcss": "^2.0.2"
   },
   "dependencies": {
-    "@11ty/eleventy-img": "^0.7.1",
+    "@11ty/eleventy-img": "^0.7.3",
     "@tailwindcss/aspect-ratio": "^0.2.0",
     "@tailwindcss/typography": "^0.3.1"
   }
